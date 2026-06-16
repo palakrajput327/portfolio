@@ -3,9 +3,9 @@ export const meta = {
   title: "Full Stack Developer",
   tagline: "I build things for the web — clean, fast, and purposeful.",
   email: "palakrajput327@gmail.com",
-  github: "https://github.com/yourusername",
-  leetcode: "https://leetcode.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  github: "https://github.com/palakrajput327",
+  leetcode: "https://leetcode.com/u/secret_001/",
+  linkedin: "https://www.linkedin.com/in/palakrajput327/",
   location: "India",
 };
 
@@ -19,11 +19,11 @@ export const about = {
 export const projects = [
   {
     id: 1,
-    title: "Project Alpha",
-    description: "A full stack app with real-time features, built with React, Node.js, and WebSockets.",
+    title: "SocialNex",
+    description: "A full stack Saas Social marketing product build under guidance of vayunex solution. Contain real-time features, built with React, Node.js, and WebSockets.",
     tags: ["React", "Node.js", "WebSocket", "MongoDB"],
     github: "https://github.com/yourusername/project-alpha",
-    live: "https://project-alpha.vercel.app",
+    live: "https://socialnex.vayunexsolution.com/",
     image: "",
   },
   {
